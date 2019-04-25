@@ -1,0 +1,7 @@
+﻿  Origem.cpp
+x:\escola superior politecnica\professores\viniciusborin\presencial\lógica de programação e algoritmos\13 - algoritmos c\tema 3\funcaoes\funcaoes\origem.cpp(37): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  x:\escola superior politecnica\professores\viniciusborin\presencial\lógica de programação e algoritmos\13 - algoritmos c\tema 3\funcaoes\funcaoes\origem.cpp(37): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+  x:\escola superior politecnica\professores\viniciusborin\presencial\lógica de programação e algoritmos\13 - algoritmos c\tema 3\funcaoes\funcaoes\origem.cpp(37): note: o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+  x:\escola superior politecnica\professores\viniciusborin\presencial\lógica de programação e algoritmos\13 - algoritmos c\tema 3\funcaoes\funcaoes\origem.cpp(37): note: esse argumento é usado como um tamanho do buffer
+  FuncaoES.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Lógica de Programação e Algoritmos\13 - Algoritmos C\Tema 3\FuncaoES\Debug\FuncaoES.exe
+  FuncaoES.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Lógica de Programação e Algoritmos\13 - Algoritmos C\Tema 3\FuncaoES\Debug\FuncaoES.pdb (Partial PDB)
