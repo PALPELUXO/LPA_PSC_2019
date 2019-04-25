@@ -1,0 +1,5 @@
+﻿  Origem.cpp
+x:\escola superior politecnica\professores\viniciusborin\presencial\lógica de programação e algoritmos\13 - algoritmos c\tema 3\lista3-2-4\lista3-2-4\origem.cpp(19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+x:\escola superior politecnica\professores\viniciusborin\presencial\lógica de programação e algoritmos\13 - algoritmos c\tema 3\lista3-2-4\lista3-2-4\origem.cpp(29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Lista3-2-4.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Lógica de Programação e Algoritmos\13 - Algoritmos C\Tema 3\Lista3-2-4\Debug\Lista3-2-4.exe
+  Lista3-2-4.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Lógica de Programação e Algoritmos\13 - Algoritmos C\Tema 3\Lista3-2-4\Debug\Lista3-2-4.pdb (Partial PDB)
