@@ -1,0 +1,5 @@
+﻿  Origem.cpp
+x:\escola superior politecnica\professores\viniciusborin\presencial\lógica de programação e algoritmos\13 - algoritmos c\hall da fama - ap1 - 2019.1\pos1-ex3\pos1-ex3\origem.cpp(37): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+x:\escola superior politecnica\professores\viniciusborin\presencial\lógica de programação e algoritmos\13 - algoritmos c\hall da fama - ap1 - 2019.1\pos1-ex3\pos1-ex3\origem.cpp(70): warning C4129: ' ': sequência de escape de caractere não reconhecida
+  Pos1-Ex3.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Lógica de Programação e Algoritmos\13 - Algoritmos C\Hall da Fama - AP1 - 2019.1\Pos1-Ex3\Debug\Pos1-Ex3.exe
+  Pos1-Ex3.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Lógica de Programação e Algoritmos\13 - Algoritmos C\Hall da Fama - AP1 - 2019.1\Pos1-Ex3\Debug\Pos1-Ex3.pdb (Partial PDB)
