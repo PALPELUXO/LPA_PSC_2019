@@ -1,0 +1,5 @@
+﻿  Origem.cpp
+x:\escola superior politecnica\professores\viniciusborin\presencial\lógica de programação e algoritmos\13 - algoritmos c\hall da fama - ap1 - 2019.1\pos3-ex2\pos3-ex2\origem.cpp(34): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+x:\escola superior politecnica\professores\viniciusborin\presencial\lógica de programação e algoritmos\13 - algoritmos c\hall da fama - ap1 - 2019.1\pos3-ex2\pos3-ex2\origem.cpp(59): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Pos3-Ex2.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Lógica de Programação e Algoritmos\13 - Algoritmos C\Hall da Fama - AP1 - 2019.1\Pos3-Ex2\Debug\Pos3-Ex2.exe
+  Pos3-Ex2.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Lógica de Programação e Algoritmos\13 - Algoritmos C\Hall da Fama - AP1 - 2019.1\Pos3-Ex2\Debug\Pos3-Ex2.pdb (Partial PDB)

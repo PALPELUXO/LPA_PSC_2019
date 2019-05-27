@@ -1,0 +1,6 @@
+﻿  Origem.cpp
+x:\escola superior politecnica\professores\viniciusborin\presencial\lógica de programação e algoritmos\13 - algoritmos c\hall da fama - ap1 - 2019.1\pos2-ex2\pos2-ex2\origem.cpp(25): warning C4305: '=': truncamento de 'double' para 'float'
+x:\escola superior politecnica\professores\viniciusborin\presencial\lógica de programação e algoritmos\13 - algoritmos c\hall da fama - ap1 - 2019.1\pos2-ex2\pos2-ex2\origem.cpp(27): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+x:\escola superior politecnica\professores\viniciusborin\presencial\lógica de programação e algoritmos\13 - algoritmos c\hall da fama - ap1 - 2019.1\pos2-ex2\pos2-ex2\origem.cpp(28): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Pos2-Ex2.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Lógica de Programação e Algoritmos\13 - Algoritmos C\Hall da Fama - AP1 - 2019.1\Pos2-Ex2\Debug\Pos2-Ex2.exe
+  Pos2-Ex2.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Lógica de Programação e Algoritmos\13 - Algoritmos C\Hall da Fama - AP1 - 2019.1\Pos2-Ex2\Debug\Pos2-Ex2.pdb (Partial PDB)
